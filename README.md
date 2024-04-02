@@ -1,5 +1,5 @@
 # Name : BASKAR  J
-# Roll no : 212223040025
+# Reg no : 212223040025
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
